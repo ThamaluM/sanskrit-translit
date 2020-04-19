@@ -18,6 +18,6 @@
 + Go to more (... button at the right hand site.)
 + Select **Extensions**
 + Click **Load Extensions**
-+ Go to the folder **sanskrit-translit --> Chrome --> dev2sin** and select it,
++ Go to the folder **sanskrit-translit --> Edge --> dev2sin** and select it,
 + Write click on the extension and add icon near address bar.
 
