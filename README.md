@@ -1,4 +1,4 @@
-![icon](icon.png=25x)
+<img src="https://github.com/ThamaluM/sanskrit-translit/blob/master/icon.png" width="48">
 # How to install the Devanagari-->Sinhala manually
 
 ## Chrome
