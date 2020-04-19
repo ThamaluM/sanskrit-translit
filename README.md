@@ -1,3 +1,4 @@
+![icon](icon.png)
 # How to install the Devanagari-->Sinhala manually
 
 ## Chrome
