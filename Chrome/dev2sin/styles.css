@@ -1,0 +1,33 @@
+/* main styles */
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+width:200px;
+height:150px;
+background-color: brown;
+}
+
+h3 {
+    font-weight: 800;
+    font-size: 25px;
+    color: white;
+}
+
+p {
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 10px;  
+    color: beige;
+}
+
+input {
+    width:60px;
+    background-color: burlywood;
+    color: black;
+    border: none;
+    padding: 2px 3px;
+    text-align: center;
+    display: inline-block;    
+}

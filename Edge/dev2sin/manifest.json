@@ -1,0 +1,31 @@
+{
+    "manifest_version": 2,
+    "name": "Devanagari-->Sinhala",
+    "version": "0.0",
+    "author": "Thamalu Maliththa Piyadigama",
+    "description": "Transilterate Devanagari texts in Sinhala or English (Roman) Letters",
+    "icons": {
+        "48": "icon.png"
+    },
+    "permissions": [
+        "<all_urls>"
+    ],
+    "browser_action": {
+        "default_icon": {
+            "20": "icon_white.png",
+            "40": "icon_black.png"
+        },
+        "default_title": "Devanagari-->Sinhala",
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
