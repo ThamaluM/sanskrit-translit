@@ -23,3 +23,7 @@
 + Go to the folder **sanskrit-translit --> Edge --> dev2sin** and select it,
 + Write click on the extension and add icon near address bar.
 
+## Contributor
+
+Thamalu Maliththa Piyadigama
+
