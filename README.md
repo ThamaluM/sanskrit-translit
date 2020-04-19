@@ -1,4 +1,4 @@
-![icon](icon.png)
+![icon](icon.png=25px)
 # How to install the Devanagari-->Sinhala manually
 
 ## Chrome
