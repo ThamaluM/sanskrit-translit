@@ -86,7 +86,10 @@ function dev2sin() {
     conv_temp = conv_temp.replace(/ජ්ඤ/g, "ඥ");
     conv_temp = conv_temp.replace(/්ය/g, "්\u200dය");
     conv_temp = conv_temp.replace(/ර්‍ය/g, "ර්ය");
+    conv_temp = conv_temp.replace(/්\u200dරු/g, "්\u200dරැ");
+    conv_temp = conv_temp.replace(/්රු/g, "්රැ");
     conv_temp = conv_temp.replace(/්ර/g, "්\u200dර");
+    
 
 
     //replace numerals
